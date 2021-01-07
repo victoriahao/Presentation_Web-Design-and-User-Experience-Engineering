@@ -16,6 +16,8 @@
 
 #### Please note that this repo only demos the website, it does not include code base.
 
+#### For the code base, please navigate to another repo called "seainfo6150-final-project-team-6"
+
 
 
 
