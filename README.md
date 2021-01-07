@@ -16,10 +16,11 @@
 
 #### Please note that this repo only demos the website, it does not include code base.
 
-#### For the code base, please navigate to another repo called "seainfo6150-final-project-team-6"
+#### For the code base, please navigate to another repo called "seainfo6150-final-project-team-6". 
+#### Here is the link: https://github.com/victoriahao/seainfo6150-final-project-team-6
 
 
 
 
 
-##### -- All rights reserved --
+##### - All rights reserved -
