@@ -6,7 +6,7 @@
 #### Designed recipe webpages' user interface, and developed the website using frontend web development skills and tools.
 #### Creatively designed cooking recipe website based on user requirements. Iteratively improved layout with customer feedback and usability testing.
 
-#### Learned skills: timely coordination and effective communication.
+#### Soft skills learned: timely coordination and effective communication.
 
 #### Produced a stylish and easy-to-use website with proven customer satisfaction.
 
