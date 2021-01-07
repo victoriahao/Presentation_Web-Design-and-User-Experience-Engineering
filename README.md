@@ -10,14 +10,14 @@
 
 #### Produced a stylish and easy-to-use website with proven customer satisfaction.
 
-#### Purpose:
+#### ***Purpose:
 #### This repository includes web captures of all webpages. Viewer can see what the actual website looks like.
 #### There is a folder called "Web Capture" in this repo, you can start viewing by clicking on the files inside the folder. Feel free to take a look :)
 
 #### Please note that this repo only demos the website, it does not include code base.
 
 #### For the code base, please navigate to another repo called "seainfo6150-final-project-team-6". 
-#### Here is the link: https://github.com/victoriahao/seainfo6150-final-project-team-6
+#### Here is the link for code base: https://github.com/victoriahao/seainfo6150-final-project-team-6
 
 
 
