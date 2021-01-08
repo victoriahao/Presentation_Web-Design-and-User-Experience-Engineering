@@ -12,7 +12,8 @@
 
 #### ***Purpose:
 #### This repository includes web captures of all webpages. Viewer can see what the actual website looks like.
-#### There is a folder called "Web Capture" in this repo, you can start viewing by clicking on the files inside the folder. Feel free to take a look :)
+#### There is a folder called "Web Capture" in this repo, you can start viewing by clicking on the files inside the folder. 
+#### I also include webpage's wireframe designs in another folder called "Wireframes". Please feel free to take a look as well:)
 
 #### Please note that this repo only demos the website, it does not include code base.
 
