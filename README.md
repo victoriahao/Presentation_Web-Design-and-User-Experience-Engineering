@@ -1,4 +1,4 @@
-## Presentation: 
+## Project Presentation: 
 ### Web Design and User Experience Engineering
 
 ### Project - Home Chef Recipe Website
@@ -24,4 +24,4 @@
 
 
 
-##### - All rights reserved -
+######## - All rights reserved -
